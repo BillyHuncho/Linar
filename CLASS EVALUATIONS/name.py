@@ -1,0 +1,1 @@
+print("what is your name? \n wwhat is your age")
