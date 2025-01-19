@@ -1,3 +1,3 @@
 # Linar
 Evaluations for linar
-Different topicss with examples
+Different topics with examples all under PYTHON
